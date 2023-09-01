@@ -24,6 +24,11 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 
+import linkIcon from './link.svg';
+import loader from './loader.svg';
+import copy from './copy.svg';
+import tick from './tick.svg';
+
 export {
   airbnb,
   bill,
@@ -50,4 +55,8 @@ export {
   people01,
   people02,
   people03,
+  linkIcon,
+  loader,
+  copy,
+  tick,
 };

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="233.9101 139.4755 51.1511 48.0436" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient data-v-fde0c5aa="" gradientTransform="rotate(25)" id="cd1dbf59-3dc8-4ddc-8833-ad2f78184a02" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop data-v-fde0c5aa="" offset="0" stop-color="#33bbcf" stop-opacity="1"/>
+      <stop data-v-fde0c5aa="" offset="1" stop-color="#D7F9FF" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <g data-v-fde0c5aa="" id="ff507e19-2078-4a4f-8c37-85818a80011d" stroke="none" fill="url(#cd1dbf59-3dc8-4ddc-8833-ad2f78184a02)" transform="matrix(1.5984710454940796, 0, 0, 1.5984710454940796, 233.91009521484372, 137.9218292236328)">
+    <path d="M17.572 23.933l4.106 7.095L32 13.189h-8.981V7.582L11.51.972 0 7.582v13.222l11.51 6.611 6.062-3.482zm10.96-8.744l-6.855 11.846-6.855-11.846h13.71z"/>
+  </g>
+</svg>
